@@ -1,220 +1,305 @@
-<h1 align="center">Hi, I'm Ramachandru 👋</h1>
+<h1 align="center">Hi, I'm Ramachandru J 👋</h1>
 
 <p align="center">
-  <b>Embedded Systems & IoT Engineer · B.Tech ECE @ SRM Institute of Science and Technology</b><br/>
-  Building real-world embedded systems, wireless IoT solutions, and intelligent electronics that solve practical problems.
+<b>Embedded Software Engineer • Electronics Engineer • IoT Developer</b><br>
+B.Tech Electronics & Communication Engineering @ SRM Institute of Science and Technology (CGPA 9.01)<br>
+Building Embedded Systems, Firmware, Industrial IoT and Intelligent Electronics.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ramachandruj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ramachandru">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jramachandru31@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/chandru31lab">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://ramachandruj.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm an Electronics and Communication Engineering student passionate about designing embedded systems that interact with the real world.
+I'm an Embedded Systems enthusiast passionate about building firmware, IoT products, industrial automation systems and intelligent electronics.
 
-My work focuses on firmware development, IoT communication, sensor integration, wireless systems, PCB design, and automation. I enjoy building products that move beyond simulations into deployable hardware.
+I enjoy taking projects from idea to deployment—designing PCBs, writing low-level firmware, integrating sensors, building wireless communication systems and developing complete embedded products.
 
-- 🎓 B.Tech Electronics & Communication Engineering, SRMIST
-- 🔬 IEEE Conference Author (Springer Publication)
-- 🏭 Completed Internship at Nokia Chennai Manufacturing Facility
-- ⚡ Embedded Systems | IoT | PCB Design | Electronics
-- 🏆 HackFest'25 Top 8 Finalist (63 Teams)
-- 🌱 Currently learning Embedded Linux, RTOS, and Advanced STM32 Development
+### Highlights
+
+🏭 Product Engineering Intern @ Nokia
+
+⚡ Hardware Validation Intern @ NCR Atleos
+
+🌊 Embedded Systems Intern @ NIOT (National Institute of Ocean Technology)
+
+🏭 Industrial Automation Intern @ Autosys Control Systems
+
+📄 Springer Published Research Author
+
+📜 Indian Patent Holder
+
+🏆 Multiple National Hackathon Winner
+
+🎯 Technical Lead - ECE Association, SRMIST
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming
+## Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### Embedded Platforms
+## Embedded Platforms
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge)
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
-### Communication Protocols
+## Embedded Technologies
 
-![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge)
+FreeRTOS
 
-![SPI](https://img.shields.io/badge/SPI-555555?style=for-the-badge)
+QNX
 
-![I2C](https://img.shields.io/badge/I2C-555555?style=for-the-badge)
+STM32CubeIDE
 
-![LoRa](https://img.shields.io/badge/LoRa-0055A4?style=for-the-badge)
+STM32CubeMX
 
-![ESP--NOW](https://img.shields.io/badge/ESP--NOW-009688?style=for-the-badge)
+PlatformIO
 
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+EasyEDA
 
----
+Git
 
-### IoT & Cloud
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge)
+Linux
 
 ---
 
-### Electronics
+## Communication Protocols
 
-`PCB Design`
+UART
 
-`EasyEDA`
+SPI
 
-`Sensor Interfacing`
+I²C
 
-`Power Electronics`
+CAN Bus
 
-`Oscilloscope`
+RS-485
 
-`Logic Analyzer`
+LoRa
 
-`Serial Debugging`
+ESP-NOW
+
+Wi-Fi
+
+MQTT
 
 ---
 
-# 💼 Experience
+## Hardware
 
-| Period | Organization | Role | Highlights |
-|--------|--------------|------|-----------|
-| Jun 2026 – Jul 2026 | Nokia Chennai | Engineering Intern | Learned SMT manufacturing, automated testing, quality systems, MES, SAP, production workflow, warehouse operations and electronics manufacturing processes. |
-| May 2025 | Autosys Engineering Pvt Ltd | Engineering Intern | Worked on desalination plant electrical systems, industrial automation and field-level instrumentation. |
+GPIO
+
+DMA
+
+PWM
+
+ADC
+
+Interrupts
+
+Timers
+
+PCB Design
+
+Logic Analyzer
+
+Oscilloscope
+
+Multimeter
+
+---
+
+# 💼 Professional Experience
+
+| Company | Role | Duration |
+|----------|------|----------|
+| Nokia Solutions & Networks | Product Engineering Intern | Jun 2026 – Jul 2026 |
+| NCR Atleos | Hardware Validation Intern | Apr 2026 |
+| National Institute of Ocean Technology (NIOT) | Embedded Systems Intern | Jun 2025 – Jul 2025 |
+| Autosys Control Systems Pvt Ltd | Industrial Automation Intern | Dec 2024 |
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌊 Wireless Water Level Monitoring & Motor Control System
+## ⚡ Smart EV Battery Management System
 
-A long-range water tank monitoring system using LoRa communication for reliable level monitoring and automatic motor control. Includes leakage detection and IoT monitoring.
+Dual-controller Battery Management System using STM32 and ESP32 with CAN communication, emergency shutdown, thermal protection and MQTT-based cloud dashboard.
 
-**Highlights**
+**Tech**
 
-- LoRa Wireless Communication
-- Solar Powered Sensor Node
-- Automatic Motor Controller
-- Waterproof Ultrasonic Sensor
-- Blynk Dashboard
-- Leak Detection using Flow Sensors
-
-`ESP32`
-`LoRa`
-`IoT`
-`Blynk`
-`Embedded C`
+STM32 • ESP32 • CAN Bus • FreeRTOS • MQTT • Embedded C
 
 ---
 
-## 🪖 AI Smart Safety Helmet
+## 🩸 Blood Loss Measurement System
 
-An intelligent industrial safety helmet that monitors worker health and environmental conditions while enabling long-range communication.
+Medical embedded device developed for SRM Global Hospital to estimate blood loss during surgery using spectral sensing and sensor fusion.
 
-**Features**
+**Tech**
 
-- Gas Detection
-- Temperature Monitoring
-- Fire Detection
-- ESP32-CAM Video
-- LoRa Communication
-- Emergency Alerts
+ESP32
 
-`ESP32`
+Signal Processing
 
-`LoRa`
+Optical Sensors
 
-`Embedded AI`
-
-`IoT`
+Biomedical Instrumentation
 
 ---
 
-## 🌊 Underwater Visible Light Communication System
+## 🌊 IoT Water Level Monitoring System (Patent)
 
-A short-range underwater communication system using visible light for transmitting environmental sensor data in marine applications.
+Solar-powered LoRa based intelligent water monitoring system with leakage detection and automatic motor control.
 
-**Features**
+✔ Published Indian Patent
 
-- Li-Fi Communication
-- Water Quality Monitoring
-- Temperature
-- pH
-- Turbidity
-- IoT Dashboard
+**Tech**
 
-`Embedded Systems`
+ESP32
 
-`Optical Communication`
+LoRa
 
-`IoT`
+Blynk
 
----
+Embedded C
 
-## ⚡ Intelligent Power Source Monitoring System
-
-Industrial automatic power switching system developed using NI DAQ for monitoring primary and backup power sources.
-
-**Features**
-
-- Automatic Relay Switching
-- Email Notification
-- DAQ Monitoring
-- Python Automation
-
-`Python`
-
-`NI DAQ`
-
-`Automation`
+Solar Power
 
 ---
 
-## 🚰 Automatic Water Level Indicator
+## 🪖 Smart Safety Helmet
 
-A microcontroller-free automatic water level controller designed using digital logic ICs.
+Industrial safety helmet with
 
-**Features**
+• Gas Detection
 
-- ULN2003
-- NAND Gates
-- Automatic Pump Control
-- Low Cost Hardware
+• Live Video
 
-`Digital Electronics`
+• Voice Communication
 
-`Logic Design`
+• MQTT Dashboard
+
+• LoRa Communication
 
 ---
 
-# 📜 Achievements
+## 🌊 Underwater Visible Light Communication
 
-🏆 HackFest'25 Top 8 Finalist (Among 63 Teams)
+Marine communication system using LiFi/VLC for underwater environmental monitoring.
 
-📄 Springer Conference Publication
+Temperature
 
-📖 IEEE Conference Paper Author
+pH
 
-🏭 Nokia Manufacturing Internship
+Turbidity
 
-🎓 SRM Institute of Science and Technology
+MQTT Dashboard
+
+ESP32
+
+---
+
+## 🚗 Edge AI Voice Assistant Wearable
+
+TinyML powered wearable device for elderly assistance featuring
+
+Voice Recognition
+
+Fall Detection
+
+Emergency Alerts
+
+LoRa Communication
+
+Offline AI
+
+---
+
+# 🏆 Achievements
+
+🥇 Technow'24 Hackathon Winner
+
+🥈 AI Hackday Runner-up
+
+🥈 Project Expo'26 Runner-up
+
+🥈 IoT Hackathon Runner-up
+
+🥈 Fabriquathon National Runner-up
+
+🥉 Digital Revolution Hackathon
+
+🏆 Dr APJ Abdul Kalam Undergraduate Research Award
+
+🏆 MTS Nandha Innovation Award
+
+---
+
+# 📄 Research & Patent
+
+📜 Indian Patent
+
+IoT-Based Water Level Monitoring & Control System with Leakage Detection
+
+📚 Springer Conference Publication
+
+Deep Learning for Weather Forecasting
+
+---
+
+# 👨‍🏫 Leadership
+
+Technical Lead
+
+ECE Association
+
+SRMIST
+
+Senior Developer
+
+Centre of Excellence in Intelligent Marine & Energy Systems
+
+Associate Lead
+
+PLACFV's Career Center
+
+IEEE Volunteer
+
+HackFest Coordinator
 
 ---
 
@@ -222,20 +307,40 @@ A microcontroller-free automatic water level controller designed using digital l
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ramachandruj&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandru31lab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramachandruj&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru31lab&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# 📈 GitHub Streak
 
-If you're interested in Embedded Systems, IoT, Electronics, or collaborating on innovative hardware projects, feel free to connect!
+<p align="center">
 
-📧 **YOUR EMAIL**
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chandru31lab&theme=tokyonight&hide_border=true"/>
 
-💼 **LinkedIn:** https://linkedin.com/in/YOURPROFILE
+</p>
 
-🌐 **GitHub:** https://github.com/ramachandruj
+---
+
+# 📫 Connect With Me
+
+📧 **jramachandru31@gmail.com**
+
+🌐 Portfolio
+
+https://ramachandruj.vercel.app
+
+💼 LinkedIn
+
+https://linkedin.com/in/ramachandru
+
+⭐ GitHub
+
+https://github.com/chandru31lab
+
+---
+
+> *"Turning ideas into reliable embedded products through firmware, electronics and innovation."*
