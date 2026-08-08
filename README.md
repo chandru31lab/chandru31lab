@@ -1,346 +1,187 @@
 <h1 align="center">Hi, I'm Ramachandru J 👋</h1>
 
 <p align="center">
-<b>Embedded Software Engineer • Electronics Engineer • IoT Developer</b><br>
-B.Tech Electronics & Communication Engineering @ SRM Institute of Science and Technology (CGPA 9.01)<br>
-Building Embedded Systems, Firmware, Industrial IoT and Intelligent Electronics.
+  <b>Embedded Systems | Firmware | IoT | EV Electronics | Hardware Validation</b>
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/ramachandru">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:jramachandru31@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/chandru31lab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://ramachandruj.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/ramachandru">LinkedIn</a> •
+  <a href="https://github.com/chandru31lab">GitHub</a> •
+  <a href="https://ramachandruj.vercel.app">Portfolio</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-I'm an Embedded Systems enthusiast passionate about building firmware, IoT products, industrial automation systems and intelligent electronics.
+I am an Electronics and Communication Engineering student at SRM Institute of Science and Technology with hands-on experience in embedded systems, firmware development, industrial testing, IoT, and hardware validation.
 
-I enjoy taking projects from idea to deployment—designing PCBs, writing low-level firmware, integrating sensors, building wireless communication systems and developing complete embedded products.
+I build engineering solutions that solve real problems in areas like:
+- EV battery monitoring and safety
+- Industrial test automation
+- Healthcare instrumentation
+- Smart IoT systems
+- Embedded AI and wearable assistive devices
+- Marine and environmental sensing
 
-### Highlights
-
-🏭 Product Engineering Intern @ Nokia
-
-⚡ Hardware Validation Intern @ NCR Atleos
-
-🌊 Embedded Systems Intern @ NIOT (National Institute of Ocean Technology)
-
-🏭 Industrial Automation Intern @ Autosys Control Systems
-
-📄 Springer Published Research Author
-
-📜 Indian Patent Holder
-
-🏆 Multiple National Hackathon Winner
-
-🎯 Technical Lead - ECE Association, SRMIST
+My focus is on turning ideas into working systems using microcontrollers, sensors, communication protocols, and practical hardware-software integration.
 
 ---
 
-# 🛠 Tech Stack
+## What I Build
+
+I enjoy building projects that are:
+- reliable in real-world conditions
+- low power and cost effective
+- useful for industrial, healthcare, and automotive applications
+- backed by testing, validation, and documentation
+
+Some of my recent work includes:
+- EV Battery Management System with emergency shutdown
+- Wearable voice-based emergency assistance system using LoRa and TinyML
+- Water level monitoring and leakage detection system
+- Underwater visible light communication system for marine sensing
+- Real-time blood loss measurement system for surgical suction canisters
+- Smart helmet for hazardous environments
+- Hardware validation and industrial test support projects
+
+---
+
+## Who I Build For
+
+I like building for users and teams that need practical engineering solutions, including:
+
+- industrial and manufacturing teams
+- automotive and EV applications
+- healthcare and biomedical environments
+- marine and field monitoring systems
+- smart home and IoT use cases
+- engineering teams that need reliable prototypes and validation support
+
+---
+
+## Technical Stack
+
+**Microcontrollers & Platforms**
+- STM32
+- ESP32
+- ESP8266
+- Raspberry Pi
+- Arduino
+- ESP32-CAM
+
+**Programming**
+- C
+- Python
+
+**Protocols**
+- CAN
+- I2C
+- SPI
+- UART
+- RS-485
+- MQTT
+
+**Wireless & Connectivity**
+- LoRa
+- ESP-NOW
+- Wi-Fi
+- RF communication
+
+**Embedded & Systems**
+- Firmware development
+- Embedded C
+- FreeRTOS
+- TinyML
+- Edge AI
+- Hardware validation
+- Functional testing
+- Root cause analysis
+
+**Power Electronics**
+- Buck converter
+- Boost converter
+- Buck-boost converter
+- Battery management systems
+
+**Tools**
+- Arduino IDE
+- STM32CubeIDE
+- EasyEDA
+- AutoCAD
+- Git
+- MS Excel
+
+---
+
+## Selected Projects
+
+### Smart EV Battery Management System with Emergency Shutdown
+Designed a dual-controller BMS using STM32 and ESP32 with CAN communication, thermal protection, fault handling, and MQTT-based IoT monitoring.
+
+### Edge AI Wearable Voice Assistant and Emergency Alert System
+Built a wearable assistive system using TinyML, LoRa, MPU6050, and Blynk for offline voice control, fall detection, and emergency response.
+
+### IoT-Based Water Level Monitoring and Control System
+Developed a smart water management system with ultrasonic sensing, leakage detection, automatic pump control, and remote monitoring. Published as an Indian patent.
+
+### Real-Time Blood Loss Measurement System
+Built a biomedical prototype using optical sensing and liquid level measurement for real-time blood volume estimation in surgical suction canisters.
+
+---
+
+## Experience
+
+**Nokia, Chennai**  
+Product Engineering Intern  
+Worked on industrial testing, hardware validation, portable testing solutions, and automatic power switching systems.
+
+**NCR Atleos, Chennai**  
+Hardware Validation Intern  
+Worked on ATM module validation, defect analysis, and test system improvement.
+
+**NIOT, Chennai**  
+Embedded Systems Intern  
+Worked on marine subsystem integration and developed a LAN-based file-sharing application for offline environments.
+
+**Autosys Control Systems, Chennai**  
+Industrial Automation Intern  
+Supported PLC panel wiring, SCADA simulation, and industrial electrical layout work.
+
+---
+
+## Leadership & Recognition
+
+- Technical Lead, ECE Association, SRMIST
+- Senior Developer, CIMES Research Lab
+- Associate Lead, SRM Career Center student club
+- 1st Prize at Technow'24 Hackathon
+- 2nd Prize at AI Hackday, Project Expo'26, IoT Hackathon, and Fabriquathon 2026
+- Dr. APJ Abdul Kalam Undergraduate Research Award 2026
+- Indian Patent: 202541053703 A
+
+---
+
+## Certifications
+
+- QNX for Everyone – BlackBerry QNX
+- Battery Management Systems for Electric Vehicles – Volvo Industry Elective
+- Power Converters for Electric Vehicles – Volvo Industry Elective
+- Mastering Microcontroller & Embedded Driver Development – Udemy
+
+---
 
 ## Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## Embedded Platforms
-
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge)
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+- Tamil
+- English
 
 ---
 
-## Embedded Technologies
+## Connect With Me
 
-FreeRTOS
+I am always open to internships, full-time roles, research collaborations, and engineering opportunities in embedded systems, firmware, EV electronics, IoT, and hardware validation.
 
-QNX
-
-STM32CubeIDE
-
-STM32CubeMX
-
-PlatformIO
-
-EasyEDA
-
-Git
-
-Linux
-
----
-
-## Communication Protocols
-
-UART
-
-SPI
-
-I²C
-
-CAN Bus
-
-RS-485
-
-LoRa
-
-ESP-NOW
-
-Wi-Fi
-
-MQTT
-
----
-
-## Hardware
-
-GPIO
-
-DMA
-
-PWM
-
-ADC
-
-Interrupts
-
-Timers
-
-PCB Design
-
-Logic Analyzer
-
-Oscilloscope
-
-Multimeter
-
----
-
-# 💼 Professional Experience
-
-| Company | Role | Duration |
-|----------|------|----------|
-| Nokia Solutions & Networks | Product Engineering Intern | Jun 2026 – Jul 2026 |
-| NCR Atleos | Hardware Validation Intern | Apr 2026 |
-| National Institute of Ocean Technology (NIOT) | Embedded Systems Intern | Jun 2025 – Jul 2025 |
-| Autosys Control Systems Pvt Ltd | Industrial Automation Intern | Dec 2024 |
-
----
-
-# 🚀 Featured Projects
-
-## ⚡ Smart EV Battery Management System
-
-Dual-controller Battery Management System using STM32 and ESP32 with CAN communication, emergency shutdown, thermal protection and MQTT-based cloud dashboard.
-
-**Tech**
-
-STM32 • ESP32 • CAN Bus • FreeRTOS • MQTT • Embedded C
-
----
-
-## 🩸 Blood Loss Measurement System
-
-Medical embedded device developed for SRM Global Hospital to estimate blood loss during surgery using spectral sensing and sensor fusion.
-
-**Tech**
-
-ESP32
-
-Signal Processing
-
-Optical Sensors
-
-Biomedical Instrumentation
-
----
-
-## 🌊 IoT Water Level Monitoring System (Patent)
-
-Solar-powered LoRa based intelligent water monitoring system with leakage detection and automatic motor control.
-
-✔ Published Indian Patent
-
-**Tech**
-
-ESP32
-
-LoRa
-
-Blynk
-
-Embedded C
-
-Solar Power
-
----
-
-## 🪖 Smart Safety Helmet
-
-Industrial safety helmet with
-
-• Gas Detection
-
-• Live Video
-
-• Voice Communication
-
-• MQTT Dashboard
-
-• LoRa Communication
-
----
-
-## 🌊 Underwater Visible Light Communication
-
-Marine communication system using LiFi/VLC for underwater environmental monitoring.
-
-Temperature
-
-pH
-
-Turbidity
-
-MQTT Dashboard
-
-ESP32
-
----
-
-## 🚗 Edge AI Voice Assistant Wearable
-
-TinyML powered wearable device for elderly assistance featuring
-
-Voice Recognition
-
-Fall Detection
-
-Emergency Alerts
-
-LoRa Communication
-
-Offline AI
-
----
-
-# 🏆 Achievements
-
-🥇 Technow'24 Hackathon Winner
-
-🥈 AI Hackday Runner-up
-
-🥈 Project Expo'26 Runner-up
-
-🥈 IoT Hackathon Runner-up
-
-🥈 Fabriquathon National Runner-up
-
-🥉 Digital Revolution Hackathon
-
-🏆 Dr APJ Abdul Kalam Undergraduate Research Award
-
-🏆 MTS Nandha Innovation Award
-
----
-
-# 📄 Research & Patent
-
-📜 Indian Patent
-
-IoT-Based Water Level Monitoring & Control System with Leakage Detection
-
-📚 Springer Conference Publication
-
-Deep Learning for Weather Forecasting
-
----
-
-# 👨‍🏫 Leadership
-
-Technical Lead
-
-ECE Association
-
-SRMIST
-
-Senior Developer
-
-Centre of Excellence in Intelligent Marine & Energy Systems
-
-Associate Lead
-
-PLACFV's Career Center
-
-IEEE Volunteer
-
-HackFest Coordinator
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandru31lab&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru31lab&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chandru31lab&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-📧 **jramachandru31@gmail.com**
-
-🌐 Portfolio
-
-https://ramachandruj.vercel.app
-
-💼 LinkedIn
-
-https://linkedin.com/in/ramachandru
-
-⭐ GitHub
-
-https://github.com/chandru31lab
-
----
-
-> *"Turning ideas into reliable embedded products through firmware, electronics and innovation."*
+📧 jramachandru31@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/ramachandru)  
+🌐 [Portfolio](https://ramachandruj.vercel.app)
