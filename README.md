@@ -139,7 +139,7 @@ A dual-microcontroller Battery Management System designed for real-time EV batte
 
 ---
 
-## [🧠 Edge AI Wearable Voice Assistant & Emergency Assistance System]()
+## [🧠 Edge AI Wearable Voice Assistant & Emergency Assistance System](https://github.com/chandru31lab/Hybrid-Wearable-Edge-AI-Home-Automation-Emergency-Assistance-System)
 
 **ESP32 • TinyML • Edge Impulse • LoRa • MPU6050 • Blynk**
 
@@ -174,7 +174,7 @@ Smart water management system designed for automated tank monitoring, leakage de
 
 ---
 
-## [🩺 Real-Time Blood Loss Measurement System for Surgical Suction Canisters](#)
+## [🩺 Real-Time Blood Loss Measurement System for Surgical Suction Canisters](https://github.com/chandru31lab/Blood-Loss-Measurement-System-for-Surgical-Suction-Canisters)
 
 **ESP32 • AS7343 • VL53L0X • Optical Sensing • C/C++**
 
