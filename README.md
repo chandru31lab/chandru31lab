@@ -187,6 +187,7 @@ Biomedical embedded system designed to estimate blood loss in surgical suction c
 - Designed embedded firmware for real-time computation.
 - Collaborated with surgeons and healthcare professionals to understand clinical requirements.
 - Designed the prototype to work alongside existing hospital workflows.
+- Project Funded by **SRM Global Hospital, Chennai**.
 
 ---
 
@@ -353,7 +354,6 @@ Microcontroller-free automatic lighting controller using analog electronics.
 ### Associate Lead — PLACFV's, SRM Career Center
 
 - Supported **20+ company placement processes**.
-- Mentored **30+ students** in resume preparation and interview readiness.
 - Coordinated between recruiters, students and placement teams.
 
 ---
