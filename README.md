@@ -402,26 +402,19 @@ Microcontroller-free automatic lighting controller using analog electronics.
 
 # 📚 Education
 
-**SRM Institute of Science and Technology, Kattankulathur**
-
+### SRM Institute of Science and Technology, Kattankulathur
 **B.Tech — Electronics and Communication Engineering**
 
-CGPA: **9.01 / 10**
-
+CGPA: **9.01 / 10**  
 Expected Graduation: **May 2027**
 
-Class XII: **87%**
+### Holy Cross Matriculation Higher Secondary School, Dindigul
 
+Class XII: **87%**  
 Class X: **94%**
 
 ---
 
-# 🌐 Languages
-
-- **Tamil** — Native
-- **English** — Professional Working Proficiency
-
----
 
 # 🎯 What I'm Looking For
 
