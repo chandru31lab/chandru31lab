@@ -139,7 +139,7 @@ A dual-microcontroller Battery Management System designed for real-time EV batte
 
 ---
 
-## [🧠 Edge AI Wearable Voice Assistant & Emergency Assistance System](#)
+## [🧠 Edge AI Wearable Voice Assistant & Emergency Assistance System]()
 
 **ESP32 • TinyML • Edge Impulse • LoRa • MPU6050 • Blynk**
 
@@ -156,7 +156,7 @@ A wearable assistive system combining Edge AI, LoRa and IoT for home automation 
 
 ---
 
-## [💧 IoT-Based Water Level Monitoring & Leakage Detection System](#)
+## [💧 IoT-Based Water Level Monitoring & Leakage Detection System](https://github.com/chandru31lab/Smart-Solar-Powered-Water-Management-Pipeline-Leakage-Detection-System/)
 
 **ESP32 • ESP-NOW • LoRa • Ultrasonic Sensor • Flow Sensors • Blynk**
 
