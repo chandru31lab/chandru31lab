@@ -1,187 +1,325 @@
 <h1 align="center">Hi, I'm Ramachandru J 👋</h1>
 
 <p align="center">
-  <b>Embedded Systems | Firmware | IoT | EV Electronics | Hardware Validation</b>
+  <b>Embedded Systems Engineer | Firmware | EV Electronics | IoT | Hardware Validation</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ramachandru">LinkedIn</a> •
-  <a href="https://github.com/chandru31lab">GitHub</a> •
-  <a href="https://ramachandruj.vercel.app">Portfolio</a>
+  <a href="https://linkedin.com/in/ramachandru">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/chandru31lab">
+    <img src="https://img.shields.io/badge/GitHub-chandru31lab-black?style=flat-square&logo=github" />
+  </a>
+  <a href="https://ramachandruj.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome" />
+  </a>
+  <a href="mailto:jramachandru31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am an Electronics and Communication Engineering student at SRM Institute of Science and Technology with hands-on experience in embedded systems, firmware development, industrial testing, IoT, and hardware validation.
+I'm an Electronics and Communication Engineering student at **SRM Institute of Science and Technology**, focused on building practical engineering solutions across **embedded systems, firmware, EV electronics, IoT, Edge AI, and hardware validation**.
 
-I build engineering solutions that solve real problems in areas like:
-- EV battery monitoring and safety
-- Industrial test automation
-- Healthcare instrumentation
-- Smart IoT systems
-- Embedded AI and wearable assistive devices
-- Marine and environmental sensing
+I enjoy working at the intersection of hardware and software — from designing embedded firmware and communication systems to testing prototypes and integrating complete hardware-software systems.
 
-My focus is on turning ideas into working systems using microcontrollers, sensors, communication protocols, and practical hardware-software integration.
+My projects and internships have exposed me to **automotive, industrial, healthcare, marine, and IoT applications**.
 
----
+### What I work on
 
-## What I Build
-
-I enjoy building projects that are:
-- reliable in real-world conditions
-- low power and cost effective
-- useful for industrial, healthcare, and automotive applications
-- backed by testing, validation, and documentation
-
-Some of my recent work includes:
-- EV Battery Management System with emergency shutdown
-- Wearable voice-based emergency assistance system using LoRa and TinyML
-- Water level monitoring and leakage detection system
-- Underwater visible light communication system for marine sensing
-- Real-time blood loss measurement system for surgical suction canisters
-- Smart helmet for hazardous environments
-- Hardware validation and industrial test support projects
+- 🔧 Embedded firmware and microcontroller systems
+- ⚡ EV Battery Management Systems and power electronics
+- 📡 LoRa, CAN, MQTT and wireless communication
+- 🤖 Edge AI and TinyML on embedded devices
+- 🧪 Hardware validation, functional testing and troubleshooting
+- 🌐 IoT monitoring and control systems
+- 🏭 Industrial automation and manufacturing test systems
+- 🩺 Biomedical and healthcare electronics
+- 🌊 Marine sensing and underwater communication
 
 ---
 
-## Who I Build For
+## 🛠️ Technical Stack
 
-I like building for users and teams that need practical engineering solutions, including:
+### Embedded Systems
 
-- industrial and manufacturing teams
-- automotive and EV applications
-- healthcare and biomedical environments
-- marine and field monitoring systems
-- smart home and IoT use cases
-- engineering teams that need reliable prototypes and validation support
+<p>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+</p>
+
+### Programming
+
+<p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+### Communication & IoT
+
+<p>
+<img src="https://img.shields.io/badge/CAN-00599C?style=flat-square" />
+<img src="https://img.shields.io/badge/I²C-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/SPI-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/UART-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/RS--485-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/LoRa-00AEEF?style=flat-square" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/Wi--Fi-0078D4?style=flat-square&logo=wifi&logoColor=white" />
+</p>
+
+### Embedded & AI
+
+<p>
+<img src="https://img.shields.io/badge/FreeRTOS-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/TinyML-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Edge%20AI-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/QNX-000000?style=flat-square" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square" />
+<img src="https://img.shields.io/badge/EasyEDA-1769AA?style=flat-square" />
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## Technical Stack
+# 🚀 Featured Projects
 
-**Microcontrollers & Platforms**
-- STM32
-- ESP32
-- ESP8266
-- Raspberry Pi
-- Arduino
-- ESP32-CAM
+## ⚡ Smart EV Battery Management System
 
-**Programming**
-- C
-- Python
+**STM32 • ESP32 • CAN • MQTT • EMQX • Embedded C**
 
-**Protocols**
-- CAN
-- I2C
-- SPI
-- UART
-- RS-485
-- MQTT
+A dual-microcontroller Battery Management System designed for real-time EV battery monitoring and protection.
 
-**Wireless & Connectivity**
-- LoRa
-- ESP-NOW
-- Wi-Fi
-- RF communication
+- CAN-based STM32 + ESP32 architecture
+- Three-zone thermal derating
+- Emergency shutdown with **<350 ms latency**
+- Battery voltage, current and temperature monitoring
+- Fault detection and protection logic
+- MQTT-based real-time telemetry
+- Browser-based EV dashboard
 
-**Embedded & Systems**
-- Firmware development
-- Embedded C
-- FreeRTOS
-- TinyML
-- Edge AI
+🔗 **[View Project →](https://github.com/chandru31lab/Smart-EV-Battery-Management-System-with-Emergency-Shutdown)**
+
+---
+
+## 🧠 Edge AI Wearable Voice Assistant & Emergency System
+
+**ESP32 • TinyML • Edge Impulse • LoRa • MPU6050 • Blynk**
+
+A wearable assistive system combining Edge AI, LoRa and IoT for home automation and emergency assistance.
+
+- Offline keyword recognition
+- **92–95% voice recognition accuracy**
+- **300–500 ms response time**
+- Fall detection using MPU6050
+- Manual SOS triggering
+- LoRa communication
+- Appliance control
+- Caregiver and emergency notifications
+
+---
+
+## 💧 Smart Water Level Monitoring & Leakage Detection
+
+**ESP32 • ESP-NOW • LoRa • Ultrasonic Sensor • Flow Sensors • Blynk**
+
+Designed a smart water management system for automated tank monitoring and pipeline leakage detection.
+
+- Contactless water-level monitoring
+- Flow-based leakage detection
+- Automatic motor control
+- Solar-powered sensing architecture
+- LoRa-based communication
+- IoT monitoring and alerts
+- Real-world residential deployment
+- **Indian Patent Application: 202541053703 A**
+
+---
+
+## 🩺 Real-Time Blood Loss Measurement System
+
+**ESP32 • AS7343 • VL53L0X • Optical Sensing • Embedded C**
+
+Developed a biomedical prototype for real-time blood-loss estimation in surgical suction canisters.
+
+- Optical spectral sensing
+- Liquid-level measurement
+- Blood concentration estimation
+- Sensor fusion
+- Calibration and signal processing
+- Real-time embedded computation
+- Designed in collaboration with healthcare professionals
+
+---
+
+## 🌊 Underwater Visible Light Communication System
+
+**ESP32 • LiFi/VLC • MQTT • DS18B20 • pH • Turbidity**
+
+Designed a short-range underwater optical communication platform for marine environmental monitoring.
+
+- Visible-light communication
+- Structured packet transmission
+- CRC-based error detection
+- Sequence-number tracking
+- Temperature, pH and turbidity monitoring
+- MQTT-based surface gateway
+- Real-time web dashboard
+- Communication performance analysis
+
+---
+
+## 🪖 Smart Safety Helmet
+
+**ESP32 • LoRa • ESP32-CAM • MQTT • Sensors**
+
+Developed a smart helmet for hazardous work environments.
+
+- Gas monitoring
+- Temperature monitoring
+- Flame detection
+- LoRa communication
+- Live video streaming
+- Two-way voice communication
+- MQTT-based monitoring dashboard
+
+---
+
+# 💼 Industry Experience
+
+### Nokia — Product Engineering Intern
+
+Worked with Product Engineering and Manufacturing teams on:
+
+- Production-line troubleshooting
 - Hardware validation
 - Functional testing
-- Root cause analysis
+- Industrial test systems
+- Portable testing equipment
+- Automatic power-source switching
+- SMT and manufacturing processes
 
-**Power Electronics**
-- Buck converter
-- Boost converter
-- Buck-boost converter
-- Battery management systems
+### NCR Atleos — Hardware Validation Intern
 
-**Tools**
-- Arduino IDE
-- STM32CubeIDE
-- EasyEDA
-- AutoCAD
-- Git
-- MS Excel
+Worked on:
 
----
+- ATM test-system validation
+- Functional testing
+- Hardware troubleshooting
+- Root-cause analysis
+- Test-system accuracy improvement
 
-## Selected Projects
+### NIOT — Embedded Systems Intern
 
-### Smart EV Battery Management System with Emergency Shutdown
-Designed a dual-controller BMS using STM32 and ESP32 with CAN communication, thermal protection, fault handling, and MQTT-based IoT monitoring.
+Worked on:
 
-### Edge AI Wearable Voice Assistant and Emergency Alert System
-Built a wearable assistive system using TinyML, LoRa, MPU6050, and Blynk for offline voice control, fall detection, and emergency response.
+- Marine electronics
+- CTD, DVL, SONAR and pressure subsystems
+- Hardware validation
+- Signal diagnostics
+- Subsystem integration
+- Offline LAN file-sharing application
 
-### IoT-Based Water Level Monitoring and Control System
-Developed a smart water management system with ultrasonic sensing, leakage detection, automatic pump control, and remote monitoring. Published as an Indian patent.
+### Autosys Control Systems — Industrial Automation Intern
 
-### Real-Time Blood Loss Measurement System
-Built a biomedical prototype using optical sensing and liquid level measurement for real-time blood volume estimation in surgical suction canisters.
+Worked on:
 
----
-
-## Experience
-
-**Nokia, Chennai**  
-Product Engineering Intern  
-Worked on industrial testing, hardware validation, portable testing solutions, and automatic power switching systems.
-
-**NCR Atleos, Chennai**  
-Hardware Validation Intern  
-Worked on ATM module validation, defect analysis, and test system improvement.
-
-**NIOT, Chennai**  
-Embedded Systems Intern  
-Worked on marine subsystem integration and developed a LAN-based file-sharing application for offline environments.
-
-**Autosys Control Systems, Chennai**  
-Industrial Automation Intern  
-Supported PLC panel wiring, SCADA simulation, and industrial electrical layout work.
+- PLC panel wiring
+- SCADA simulation
+- Field instrumentation
+- AutoCAD electrical layouts
+- Industrial control systems
 
 ---
 
-## Leadership & Recognition
+# 🏆 Achievements
 
-- Technical Lead, ECE Association, SRMIST
-- Senior Developer, CIMES Research Lab
-- Associate Lead, SRM Career Center student club
-- 1st Prize at Technow'24 Hackathon
-- 2nd Prize at AI Hackday, Project Expo'26, IoT Hackathon, and Fabriquathon 2026
-- Dr. APJ Abdul Kalam Undergraduate Research Award 2026
-- Indian Patent: 202541053703 A
-
----
-
-## Certifications
-
-- QNX for Everyone – BlackBerry QNX
-- Battery Management Systems for Electric Vehicles – Volvo Industry Elective
-- Power Converters for Electric Vehicles – Volvo Industry Elective
-- Mastering Microcontroller & Embedded Driver Development – Udemy
+- 🥇 **1st Prize — MTS Nandha Innovation Award 2026**
+- 🏆 **Dr. A.P.J. Abdul Kalam Undergraduate Research Award 2026**
+- 🥇 **Technow'24 Hackathon — 1st Prize**
+- 🥈 **AI Hackday — 2nd Prize**
+- 🥈 **Project Expo'26 — 2nd Prize**
+- 🥈 **IoT Hackathon — 2nd Prize**
+- 🥈 **Fabriquathon 2026 — 2nd Prize**
+- 🥉 **Digital Revolution Hackathon — 3rd Prize**
+- 🥉 **MTS TechSurge Poster Presentation — 3rd Prize**
+- 📜 **Indian Patent Application — 202541053703 A**
 
 ---
 
-## Languages
+# 👥 Leadership
 
-- Tamil
-- English
+### Technical Lead — ECE Association, SRMIST
+
+- Lead the Embedded Systems technical domain
+- Mentored **20+ junior students**
+- Conducted embedded systems and electronics workshops
+- Supported IEEE conferences and technical events
+- Student Coordinator for HackFest 2026
+
+### Senior Developer — CIMES Research Lab
+
+- Mentored **20+ students**
+- Trained students in Arduino, ESP32 and electronics
+- Supported embedded research and prototyping
+
+### Associate Lead — PLACFV's, SRM Career Center
+
+- Supported **20+ placement drives**
+- Mentored **30+ students**
+- Coordinated between students, recruiters and placement teams
 
 ---
 
-## Connect With Me
+# 🎓 Certifications & Coursework
 
-I am always open to internships, full-time roles, research collaborations, and engineering opportunities in embedded systems, firmware, EV electronics, IoT, and hardware validation.
+- **QNX for Everyone** — BlackBerry QNX & Pi Square Technologies
+- **Battery Management Systems for Electric Vehicles** — Volvo Industry Elective
+- **Power Converters for Electric Vehicles** — Volvo Industry Elective
+- **Mastering Microcontroller & Embedded Driver Development** — Udemy
 
-📧 jramachandru31@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ramachandru)  
-🌐 [Portfolio](https://ramachandruj.vercel.app)
+---
+
+# 📈 What I'm Looking For
+
+I'm currently interested in opportunities related to:
+
+**Embedded Software • Firmware Engineering • EV Electronics • Battery Management Systems • Hardware Validation • Electronics R&D • IoT • Edge AI**
+
+I am particularly interested in roles where I can work on **real products, embedded hardware, testing, system integration, and engineering problem solving**.
+
+---
+
+# 📫 Let's Connect
+
+If you're working on embedded systems, EVs, electronics, IoT, or hardware products, I'd be happy to connect.
+
+<p align="center">
+  <a href="mailto:jramachandru31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jramachandru31%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ramachandru">
+    <img src="https://img.shields.io/badge/LinkedIn-Ramachandru%20J-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ramachandruj.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-ramachandruj.vercel.app-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building practical engineering solutions where hardware meets software.</i>
+</p>
