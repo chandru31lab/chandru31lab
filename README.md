@@ -288,7 +288,7 @@ Microcontroller-free automatic lighting controller using analog electronics.
 | **NIOT, Chennai** | Embedded Systems Intern | Marine electronics, subsystem integration, hardware validation |
 | **Autosys Control Systems, Chennai** | Industrial Automation Intern | PLC, SCADA, instrumentation, electrical layouts |
 
-### 🔹 Nokia — Product Engineering Intern(https://github.com/chandru31lab/Short-Range-Underwater-Visible-Light-Communication-System)
+### 🔹 Nokia — Product Engineering Intern
 **Jun 2026 – Jul 2026**
 
 - Worked with Product Engineering and Manufacturing teams on production-line troubleshooting and test-system reliability.
