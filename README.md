@@ -207,7 +207,7 @@ Short-range underwater optical communication system designed for marine environm
 
 ---
 
-## [🪖 Smart Helmet for Hazardous Work Environments](#)
+## [🪖 Smart Helmet for Hazardous Work Environments](https://github.com/chandru31lab/Smart-Safety-Helmet-for-hazardous-Work-Environments)
 
 **ESP32 • LoRa • ESP32-CAM • MQTT • DHT11 • MQ135**
 
