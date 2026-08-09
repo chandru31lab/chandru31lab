@@ -191,7 +191,7 @@ Biomedical embedded system designed to estimate blood loss in surgical suction c
 
 ---
 
-## [🌊 Short-Range Underwater Visible Light Communication System](#)
+## [🌊 Short-Range Underwater Visible Light Communication System](https://github.com/chandru31lab/Short-Range-Underwater-Visible-Light-Communication-System)
 
 **ESP32 • VLC/LiFi • MQTT • DS18B20 • pH • Turbidity**
 
