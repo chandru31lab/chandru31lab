@@ -370,7 +370,7 @@ Developed a computer vision system for real-time vein visualization and labeling
 
 # 🌱 Volunteering & Outreach
 
-### SIMCODESS Community Connect — Dindigul
+### [SIMCODESS Community Connect — Dindigul](https://github.com/chandru31lab/Certificates/blob/main/SIMCODESS%20NGO.pdf)
 
 * Participated in a 4-day community development internship focused on organic farming, environmental conservation and women's empowerment.
 * Supported awareness activities under the WE LEAD project.
@@ -381,7 +381,7 @@ Developed a computer vision system for real-time vein visualization and labeling
 * Participated in cyber safety awareness activities covering phishing, cybercrime and digital fraud prevention.
 * Supported awareness of telecom safety and Sanchar Saathi services.
 
-### Unnat Bharat Abhiyan — Anjur Government School
+### [Unnat Bharat Abhiyan — Anjur Government School](#)
 
 * Conducted awareness and motivational activities for school students.
 * Supported hands-on Python programming sessions.
@@ -399,10 +399,10 @@ Developed a computer vision system for real-time vein visualization and labeling
 # 🧑‍🏫 Workshops & Technical Training
 
 * [**AI Workshop**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/AI%20Workshop.pdf)
-* [**CADD & CAE Training**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/CADD%20CAE%20training.pdf)
+* [**CADD CAE Training**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/CADD%20CAE%20training.pdf)
 * [**FPGA Workshop**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/FPGA%20Workshop.pdf)
 * [**PALS Workshop Participation**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/PALS%20Particiapation.pdf)
-* [**PMKVY Technical Training**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/PMKVY%20Certificate.pdf)
+* [**PMKVY VLSI Technical Training**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/PMKVY%20Certificate.pdf)
 * [**RAEEUCCI Presentation**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/RAUCCI_Presentation.pdf)
 
 ---
