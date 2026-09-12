@@ -279,7 +279,6 @@ Developed a computer vision system for real-time vein visualization and labeling
 | Company                                                                                                                            | Role                         | Key Focus                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------- |
 | [**Nokia, Chennai**](https://github.com/chandru31lab/Certificates/blob/main/Internship/Nokia%20Internship.pdf)                     | Product Engineering Intern   | Manufacturing, test systems, hardware validation, industrial testing |
-| **NCR Atleos, Chennai**                                                                                                            | Hardware Validation Intern   | ATM test systems, functional testing, troubleshooting                |
 | [**NIOT, Chennai**](https://github.com/chandru31lab/Certificates/blob/main/Internship/NIOT.pdf)                                    | Embedded Systems Intern      | Marine electronics, subsystem integration, hardware validation       |
 | [**Autosys Control Systems, Chennai**](https://github.com/chandru31lab/Certificates/blob/main/Internship/Autosys%20internship.pdf) | Industrial Automation Intern | PLC, SCADA, instrumentation, electrical layouts                      |
 
@@ -293,14 +292,6 @@ Developed a computer vision system for real-time vein visualization and labeling
 * Gained hands-on experience in SMT assembly, functional testing, hardware validation and quality assurance.
 * Worked with cross-functional engineering teams in a structured telecom manufacturing environment.
 
-### 🔹 NCR Atleos — Hardware Validation Intern
-
-**Apr 2026**
-
-* Performed hardware validation and functional testing of ATM module test systems.
-* Worked with Test System Engineering and QA teams to identify hardware defects.
-* Supported troubleshooting and root-cause analysis to improve testing accuracy.
-* Documented validation results and supported engineering improvement activities.
 
 ### 🔹 [NIOT — Embedded Systems Intern](https://github.com/chandru31lab/Certificates/blob/main/Internship/NIOT.pdf)
 
