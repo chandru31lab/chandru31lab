@@ -235,7 +235,7 @@ IoT security system designed for motion detection, image capture and remote aler
 
 ---
 
-## [🚗 Vehicle Speed Detection System](#)
+## [🚗Smart Vehicle Speed Detection & IoT Monitoring System](https://github.com/chandru31lab/Smart-Vehicle-Speed-Detection-IoT-Monitoring-System)
 
 **ESP32 • IR Sensors • Blynk • I²C LCD**
 
