@@ -326,7 +326,7 @@ Developed a computer vision system for real-time vein visualization and labeling
 - 🥇 **1st Prize — MTS Nandha Innovation Award 2026**
 - 🏆 **Dr. A.P.J. Abdul Kalam Undergraduate Research Award 2026**
 - 🥇 **1st Prize — Technow'24 Hackathon**
-- 🥈 **2nd Prize — AI Hackday, SRMIST**
+- 🥈 **2nd Prize — AI Hackday, SRMIST**(https://github.com/chandru31lab/Certificates/blob/main/Hackathons/AI%20hackathon%20winner.pdf)
 - 🥈 **2nd Prize — Project Expo'26, Industry 4.0**
 - 🥈 **2nd Prize — IoT Hackathon, SRMIST**
 - 🥈 **2nd Prize — Fabriquathon 2026, National Level Hardware Hackathon**
