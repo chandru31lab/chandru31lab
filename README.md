@@ -221,21 +221,7 @@ Smart safety helmet designed for monitoring hazardous industrial environments.
 - Designed the system for hazardous work environments.
 
 ---
-
-## [🩸 Vein Detection with YOLOv8 using NIR Imaging](#)
-
-**Raspberry Pi • YOLOv8 • NIR • Computer Vision**
-
-Developed a computer vision system for real-time vein visualization and labeling to assist cannulation.
-
-- Used Near-Infrared illumination for vein visualization.
-- Integrated a NOIR camera with Raspberry Pi.
-- Implemented YOLOv8-based vein detection.
-- Designed the system to identify and suggest suitable veins for cannulation.
-
----
-
-## [🔐 IoT-Based Theft Detection System](#)
+## [🔐IoT-Based Intrusion Detection & Remote Surveillance using ESP32-CAM](https://github.com/chandru31lab/IoT-Based-Intrusion-Detection-Remote-Surveillance-using-ESP32-CAM)
 
 **ESP32-CAM • PIR • Telegram Bot • IoT**
 
@@ -262,7 +248,6 @@ Real-time vehicle speed monitoring system developed for traffic safety applicati
 - Won **1st Prize at Technow'24 Hackathon**.
 
 ---
-
 ## [💡 Automatic Light Sensor using LM358 Comparator](#)
 
 **LM358 • LDR • BC547 • Relay • EasyEDA**
@@ -278,6 +263,20 @@ Microcontroller-free automatic lighting controller using analog electronics.
 - Developed a compact PCB-based implementation.
 
 ---
+
+## [🩸 Vein Detection with YOLOv8 using NIR Imaging](#)
+
+**Raspberry Pi • YOLOv8 • NIR • Computer Vision**
+
+Developed a computer vision system for real-time vein visualization and labeling to assist cannulation.
+
+- Used Near-Infrared illumination for vein visualization.
+- Integrated a NOIR camera with Raspberry Pi.
+- Implemented YOLOv8-based vein detection.
+- Designed the system to identify and suggest suitable veins for cannulation.
+
+---
+
 
 # 💼 Industry Experience
 
@@ -339,16 +338,16 @@ Microcontroller-free automatic lighting controller using analog electronics.
 
 # 👥 Leadership
 
-### Technical Lead — ECE Association, SRMIST
+### Joint Secretary — ECE Association, SRMIST
 
 - Led the Embedded Systems technical domain.
-- Mentored **20+ junior students** in embedded systems, electronics and programming.
-- Conducted technical workshops and supported IEEE conferences.
+- Mentored **30+ junior students** in embedded systems, electronics and programming.
+- Coordinated technical workshops and supported IEEE conferences.
 - Served as Student Coordinator for HackFest 2026 involving **40+ teams**.
 
 ### Senior Developer — CIMES Research Lab
 
-- Mentored **20+ students** in Arduino, ESP32, electronics and programming.
+- Mentored **13+ students** in Arduino, ESP32, electronics and programming.
 - Supported embedded systems development and multidisciplinary research projects.
 
 ### Associate Lead — PLACFV's, SRM Career Center
