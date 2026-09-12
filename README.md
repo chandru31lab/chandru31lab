@@ -24,28 +24,23 @@
 ## 👨‍💻 About Me
 
 I'm an Electronics and Communication Engineering student at
-**SRM Institute of Science and Technology**, focused on building practical
-engineering solutions across **embedded systems, firmware, EV electronics,
-IoT, Edge AI, and hardware validation**.
+**SRM Institute of Science and Technology**, focused on building practical engineering solutions across **embedded systems, firmware, EV electronics, IoT, Edge AI, and hardware validation**.
 
-I enjoy working at the intersection of hardware and software — from
-developing embedded firmware and communication systems to testing prototypes,
-debugging hardware, and integrating complete hardware-software systems.
+I enjoy working at the intersection of hardware and software — from developing embedded firmware and communication systems to testing prototypes, debugging hardware, and integrating complete hardware-software systems.
 
-My academic projects and industrial internships have given me exposure to
-**automotive, industrial, healthcare, marine, telecom, and IoT applications**.
+My academic projects and industrial internships have given me exposure to **automotive, industrial, healthcare, marine, telecom, and IoT applications**.
 
 ### What I Build
 
-- 🔧 Embedded firmware and microcontroller-based systems
-- ⚡ EV Battery Management Systems and power electronics
-- 📡 CAN, LoRa, MQTT and wireless communication systems
-- 🤖 Edge AI and TinyML applications
-- 🧪 Hardware validation, functional testing and troubleshooting
-- 🌐 IoT monitoring and control systems
-- 🏭 Industrial automation and manufacturing test systems
-- 🩺 Biomedical and healthcare electronics
-- 🌊 Marine sensing and underwater communication systems
+* 🔧 Embedded firmware and microcontroller-based systems
+* ⚡ EV Battery Management Systems and power electronics
+* 📡 CAN, LoRa, MQTT and wireless communication systems
+* 🤖 Edge AI and TinyML applications
+* 🧪 Hardware validation, functional testing and troubleshooting
+* 🌐 IoT monitoring and control systems
+* 🏭 Industrial automation and manufacturing test systems
+* 🩺 Biomedical and healthcare electronics
+* 🌊 Marine sensing and underwater communication systems
 
 ---
 
@@ -102,12 +97,12 @@ My academic projects and industrial internships have given me exposure to
 
 ### ⚡ Power Electronics
 
-- Buck Converters
-- Boost Converters
-- Buck-Boost Converters
-- Battery Management Systems
-- Battery Monitoring
-- Motor Control
+* Buck Converters
+* Boost Converters
+* Buck-Boost Converters
+* Battery Management Systems
+* Battery Monitoring
+* Motor Control
 
 ### 🧰 Tools
 
@@ -129,13 +124,13 @@ My academic projects and industrial internships have given me exposure to
 
 A dual-microcontroller Battery Management System designed for real-time EV battery monitoring, thermal protection, motor control, and emergency shutdown.
 
-- Designed an **STM32 + ESP32** architecture communicating through CAN.
-- Implemented three-zone thermal derating.
-- Achieved **<350 ms emergency shutdown latency**.
-- Developed real-time voltage, current and temperature monitoring.
-- Implemented battery protection and fault-response logic.
-- Built MQTT/EMQX-based telemetry.
-- Developed a browser-based EV dashboard for real-time monitoring and control.
+* Designed an **STM32 + ESP32** architecture communicating through CAN.
+* Implemented three-zone thermal derating.
+* Achieved **<350 ms emergency shutdown latency**.
+* Developed real-time voltage, current and temperature monitoring.
+* Implemented battery protection and fault-response logic.
+* Built MQTT/EMQX-based telemetry.
+* Developed a browser-based EV dashboard for real-time monitoring and control.
 
 ---
 
@@ -145,14 +140,14 @@ A dual-microcontroller Battery Management System designed for real-time EV batte
 
 A wearable assistive system combining Edge AI, LoRa and IoT for home automation and emergency assistance.
 
-- Implemented offline keyword spotting using TinyML.
-- Achieved **92–95% voice recognition accuracy**.
-- Achieved **300–500 ms response time**.
-- Implemented fall detection using MPU6050.
-- Added manual SOS triggering and local emergency alarms.
-- Developed LoRa-based communication between wearable and home controller.
-- Integrated appliance control and Blynk-based remote monitoring.
-- Designed hybrid offline/online emergency response architecture.
+* Implemented offline keyword spotting using TinyML.
+* Achieved **92–95% voice recognition accuracy**.
+* Achieved **300–500 ms response time**.
+* Implemented fall detection using MPU6050.
+* Added manual SOS triggering and local emergency alarms.
+* Developed LoRa-based communication between wearable and home controller.
+* Integrated appliance control and Blynk-based remote monitoring.
+* Designed hybrid offline/online emergency response architecture.
 
 ---
 
@@ -162,15 +157,15 @@ A wearable assistive system combining Edge AI, LoRa and IoT for home automation 
 
 Smart water management system designed for automated tank monitoring, leakage detection and motor control.
 
-- Implemented waterproof ultrasonic water-level measurement.
-- Developed flow sensor-based pipeline leakage detection.
-- Implemented automatic motor ON/OFF control.
-- Designed solar-powered rooftop sensor architecture.
-- Implemented ESP-NOW communication in the patented system.
-- Developed LoRa-based implementation for improved range and reliability.
-- Integrated Blynk for remote monitoring and alerts.
-- Successfully deployed the solution in **2+ residential locations**.
-- **Indian Patent Application: 202541053703 A**
+* Implemented waterproof ultrasonic water-level measurement.
+* Developed flow sensor-based pipeline leakage detection.
+* Implemented automatic motor ON/OFF control.
+* Designed solar-powered rooftop sensor architecture.
+* Implemented ESP-NOW communication in the patented system.
+* Developed LoRa-based implementation for improved range and reliability.
+* Integrated Blynk for remote monitoring and alerts.
+* Successfully deployed the solution in **2+ residential locations**.
+* **Indian Patent Application: 202541053703 A**
 
 ---
 
@@ -180,14 +175,14 @@ Smart water management system designed for automated tank monitoring, leakage de
 
 Biomedical embedded system designed to estimate blood loss in surgical suction canisters.
 
-- Developed optical spectral sensing for blood concentration estimation.
-- Integrated VL53L0X for liquid-level measurement.
-- Implemented sensor fusion for real-time blood volume estimation.
-- Developed calibration and signal-processing routines.
-- Designed embedded firmware for real-time computation.
-- Collaborated with surgeons and healthcare professionals to understand clinical requirements.
-- Designed the prototype to work alongside existing hospital workflows.
-- Project Funded by **SRM Global Hospital, Chennai**.
+* Developed optical spectral sensing for blood concentration estimation.
+* Integrated VL53L0X for liquid-level measurement.
+* Implemented sensor fusion for real-time blood volume estimation.
+* Developed calibration and signal-processing routines.
+* Designed embedded firmware for real-time computation.
+* Collaborated with surgeons and healthcare professionals to understand clinical requirements.
+* Designed the prototype to work alongside existing hospital workflows.
+* Project funded by **SRM Global Hospital, Chennai**.
 
 ---
 
@@ -197,13 +192,13 @@ Biomedical embedded system designed to estimate blood loss in surgical suction c
 
 Short-range underwater optical communication system designed for marine environmental monitoring.
 
-- Developed an underwater transmitter node using ESP32.
-- Integrated temperature, pH and turbidity sensors.
-- Designed structured communication packets with node ID, sensor data, sequence number and CRC.
-- Implemented visible-light communication using LED-based transmission.
-- Developed a surface gateway for packet reception and MQTT telemetry.
-- Built a web dashboard for real-time sensor visualization.
-- Designed experiments for signal attenuation, packet error rate and turbidity effects.
+* Developed an underwater transmitter node using ESP32.
+* Integrated temperature, pH and turbidity sensors.
+* Designed structured communication packets with node ID, sensor data, sequence number and CRC.
+* Implemented visible-light communication using LED-based transmission.
+* Developed a surface gateway for packet reception and MQTT telemetry.
+* Built a web dashboard for real-time sensor visualization.
+* Designed experiments for signal attenuation, packet error rate and turbidity effects.
 
 ---
 
@@ -213,54 +208,56 @@ Short-range underwater optical communication system designed for marine environm
 
 Smart safety helmet designed for monitoring hazardous industrial environments.
 
-- Integrated gas, temperature and flame sensing.
-- Implemented LoRa-based sensor communication.
-- Integrated ESP32-CAM for live video monitoring.
-- Developed voice communication capabilities.
-- Built an MQTT-linked web monitoring dashboard.
-- Designed the system for hazardous work environments.
+* Integrated gas, temperature and flame sensing.
+* Implemented LoRa-based sensor communication.
+* Integrated ESP32-CAM for live video monitoring.
+* Developed voice communication capabilities.
+* Built an MQTT-linked web monitoring dashboard.
+* Designed the system for hazardous work environments.
 
 ---
-## [🔐IoT-Based Intrusion Detection & Remote Surveillance using ESP32-CAM](https://github.com/chandru31lab/IoT-Based-Intrusion-Detection-Remote-Surveillance-using-ESP32-CAM)
+
+## [🔐 IoT-Based Intrusion Detection & Remote Surveillance using ESP32-CAM](https://github.com/chandru31lab/IoT-Based-Intrusion-Detection-Remote-Surveillance-using-ESP32-CAM)
 
 **ESP32-CAM • PIR • Telegram Bot • IoT**
 
 IoT security system designed for motion detection, image capture and remote alerts.
 
-- Integrated PIR-based motion detection.
-- Implemented ESP32-CAM image capture.
-- Integrated Telegram Bot for real-time alerts.
-- Implemented deep sleep for improved power efficiency.
-- Added remote monitoring and control functionality.
+* Integrated PIR-based motion detection.
+* Implemented ESP32-CAM image capture.
+* Integrated Telegram Bot for real-time alerts.
+* Implemented deep sleep for improved power efficiency.
+* Added remote monitoring and control functionality.
 
 ---
 
-## [🚗Smart Vehicle Speed Detection & IoT Monitoring System](https://github.com/chandru31lab/Smart-Vehicle-Speed-Detection-IoT-Monitoring-System)
+## [🚗 Smart Vehicle Speed Detection & IoT Monitoring System](https://github.com/chandru31lab/Smart-Vehicle-Speed-Detection-IoT-Monitoring-System)
 
 **ESP32 • IR Sensors • Blynk • I²C LCD**
 
 Real-time vehicle speed monitoring system developed for traffic safety applications.
 
-- Used dual IR sensors to calculate vehicle speed.
-- Displayed speed category on an I²C LCD.
-- Implemented over-speed detection and buzzer alerts.
-- Integrated Blynk IoT for remote monitoring.
-- Won **1st Prize at Technow'24 Hackathon**.
+* Used dual IR sensors to calculate vehicle speed.
+* Displayed speed category on an I²C LCD.
+* Implemented over-speed detection and buzzer alerts.
+* Integrated Blynk IoT for remote monitoring.
+* Won **1st Prize at Technow'24 Hackathon**.
 
 ---
+
 ## [💡 Automatic Light Sensor PCB using LM358 Comparator](https://github.com/chandru31lab/PCB-based-Automatic-Light-Control-LDR-Based-Relay-Switching-System)
 
 **LM358 • LDR • BC547 • Relay • EasyEDA**
 
 Microcontroller-free automatic lighting controller using analog electronics.
 
-- Designed LDR-based ambient light sensing.
-- Implemented LM358 comparator-based threshold detection.
-- Designed transistor-based relay driver.
-- Integrated flyback protection.
-- Designed isolated AC load switching.
-- Integrated 230 V AC to 5 V DC power supply.
-- Developed a compact PCB-based implementation.
+* Designed LDR-based ambient light sensing.
+* Implemented LM358 comparator-based threshold detection.
+* Designed transistor-based relay driver.
+* Integrated flyback protection.
+* Designed isolated AC load switching.
+* Integrated 230 V AC to 5 V DC power supply.
+* Developed a compact PCB-based implementation.
 
 ---
 
@@ -270,69 +267,78 @@ Microcontroller-free automatic lighting controller using analog electronics.
 
 Developed a computer vision system for real-time vein visualization and labeling to assist cannulation.
 
-- Used Near-Infrared illumination for vein visualization.
-- Integrated a NOIR camera with Raspberry Pi.
-- Implemented YOLOv8-based vein detection.
-- Designed the system to identify and suggest suitable veins for cannulation.
+* Used Near-Infrared illumination for vein visualization.
+* Integrated a NOIR camera with Raspberry Pi.
+* Implemented YOLOv8-based vein detection.
+* Designed the system to identify and suggest suitable veins for cannulation.
 
 ---
 
-
 # 💼 Industry Experience
 
-| Company | Role | Key Focus |
-|---|---|---|
-| **Nokia, Chennai** | Product Engineering Intern | Manufacturing, test systems, hardware validation, industrial testing |
-| **NCR Atleos, Chennai** | Hardware Validation Intern | ATM test systems, functional testing, troubleshooting |
-| **NIOT, Chennai** | Embedded Systems Intern | Marine electronics, subsystem integration, hardware validation |
-| **Autosys Control Systems, Chennai** | Industrial Automation Intern | PLC, SCADA, instrumentation, electrical layouts |
+| Company                                                                                                                            | Role                         | Key Focus                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------- |
+| [**Nokia, Chennai**](https://github.com/chandru31lab/Certificates/blob/main/Internship/Nokia%20Internship.pdf)                     | Product Engineering Intern   | Manufacturing, test systems, hardware validation, industrial testing |
+| **NCR Atleos, Chennai**                                                                                                            | Hardware Validation Intern   | ATM test systems, functional testing, troubleshooting                |
+| [**NIOT, Chennai**](https://github.com/chandru31lab/Certificates/blob/main/Internship/NIOT.pdf)                                    | Embedded Systems Intern      | Marine electronics, subsystem integration, hardware validation       |
+| [**Autosys Control Systems, Chennai**](https://github.com/chandru31lab/Certificates/blob/main/Internship/Autosys%20internship.pdf) | Industrial Automation Intern | PLC, SCADA, instrumentation, electrical layouts                      |
 
-### 🔹 Nokia — Product Engineering Intern
+### 🔹 [Nokia — Product Engineering Intern](https://github.com/chandru31lab/Certificates/blob/main/Internship/Nokia%20Internship.pdf)
+
 **Jun 2026 – Jul 2026**
 
-- Worked with Product Engineering and Manufacturing teams on production-line troubleshooting and test-system reliability.
-- Developed a battery-powered mobile testing trolley for industrial fan and pressure testing.
-- Designed a power-source monitoring and automatic switching system that reduced test-station downtime by **2+ hours**.
-- Gained hands-on experience in SMT assembly, functional testing, hardware validation and quality assurance.
-- Worked with cross-functional engineering teams in a structured telecom manufacturing environment.
+* Worked with Product Engineering and Manufacturing teams on production-line troubleshooting and test-system reliability.
+* Developed a battery-powered mobile testing trolley for industrial fan and pressure testing.
+* Designed a power-source monitoring and automatic switching system that reduced test-station downtime by **2+ hours**.
+* Gained hands-on experience in SMT assembly, functional testing, hardware validation and quality assurance.
+* Worked with cross-functional engineering teams in a structured telecom manufacturing environment.
 
 ### 🔹 NCR Atleos — Hardware Validation Intern
+
 **Apr 2026**
 
-- Performed hardware validation and functional testing of ATM module test systems.
-- Worked with Test System Engineering and QA teams to identify hardware defects.
-- Supported troubleshooting and root-cause analysis to improve testing accuracy.
-- Documented validation results and supported engineering improvement activities.
+* Performed hardware validation and functional testing of ATM module test systems.
+* Worked with Test System Engineering and QA teams to identify hardware defects.
+* Supported troubleshooting and root-cause analysis to improve testing accuracy.
+* Documented validation results and supported engineering improvement activities.
 
-### 🔹 NIOT — Embedded Systems Intern
+### 🔹 [NIOT — Embedded Systems Intern](https://github.com/chandru31lab/Certificates/blob/main/Internship/NIOT.pdf)
+
 **Jun 2025 – Jul 2025**
 
-- Worked with marine electronics, automation and instrumentation teams during Deep Sea Mining Machine testing.
-- Integrated CTD, DVL, pressure and SONAR subsystems.
-- Performed hardware validation, signal diagnostics, subsystem integration and functional testing.
-- Developed a LAN-based offline file-sharing application using Flask, SQLite, HTML, CSS and JavaScript.
+* Worked with marine electronics, automation and instrumentation teams during Deep Sea Mining Machine testing.
+* Integrated CTD, DVL, pressure and SONAR subsystems.
+* Performed hardware validation, signal diagnostics, subsystem integration and functional testing.
+* Developed a LAN-based offline file-sharing application using Flask, SQLite, HTML, CSS and JavaScript.
 
-### 🔹 Autosys Control Systems Pvt. Ltd. — Industrial Automation Intern
+### 🔹 [Autosys Control Systems Pvt. Ltd. — Industrial Automation Intern](https://github.com/chandru31lab/Certificates/blob/main/Internship/Autosys%20internship.pdf)
+
 **Dec 2024**
 
-- Assisted with PLC panel wiring and SCADA simulations for the Perur Desalination Plant.
-- Supported field instrumentation and AutoCAD-based electrical layout development.
-- Gained practical exposure to industrial control systems, testing and commissioning workflows.
+* Assisted with PLC panel wiring and SCADA simulations for the Perur Desalination Plant.
+* Supported field instrumentation and AutoCAD-based electrical layout development.
+* Gained practical exposure to industrial control systems, testing and commissioning workflows.
 
 ---
 
 # 🏆 Achievements & Recognition
 
-- 🥇 **1st Prize — MTS Nandha Innovation Award 2026**
-- 🏆 **Dr. A.P.J. Abdul Kalam Undergraduate Research Award 2026**
-- 🥇 **1st Prize — Technow'24 Hackathon**
-- 🥈 **2nd Prize — AI Hackday, SRMIST**(https://github.com/chandru31lab/Certificates/blob/main/Hackathons/AI%20hackathon%20winner.pdf)
-- 🥈 **2nd Prize — Project Expo'26, Industry 4.0**
-- 🥈 **2nd Prize — IoT Hackathon, SRMIST**
-- 🥈 **2nd Prize — Fabriquathon 2026, National Level Hardware Hackathon**
-- 🥉 **3rd Prize — Digital Revolution Hackathon**
-- 🥉 **3rd Prize — MTS TechSurge Poster Presentation**
-- 📜 **Indian Patent Application — 202541053703 A**
+* 🥇 [**1st Prize — MTS Nandha Innovation Award 2026**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/MTS%20Nandhaaward.pdf)
+* 🏆 [**Dr. A.P.J. Abdul Kalam Undergraduate Research Award 2026**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/APJ%20K%20Award.pdf)
+* 🥇 [**1st Prize — Technow'24 Hackathon**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/physics%20hackathon%20winner.pdf)
+* 🥈 [**2nd Prize — AI Hackday, SRMIST**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/AI%20hackathon%20winner.pdf)
+* 🥈 [**2nd Prize — Project Expo'26, Industry 4.0**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/project_Expo_DSBS.pdf)
+* 🥈 [**2nd Prize — IoT Hackathon, SRMIST**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/NWC%20hackathon.pdf)
+* 🥈 [**2nd Prize — Fabriquathon 2026, National Level Hardware Hackathon**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/Valliammai%20hackaton.pdf)
+* 🥉 [**3rd Prize — Digital Revolution Hackathon**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/DLD%20hackathon%20winner.pdf)
+* 🥉 [**3rd Prize — MTS TechSurge Poster Presentation**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/MTS%20Poster%20winner.pdf)
+* 📜 **Indian Patent Application — 202541053703 A**
+
+### 🎯 Hackathon & Event Participation
+
+* [**ILLUMINOVA — Hackathon Participation**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/ILLUMINOVA%20parti.pdf)
+* [**Jeppiaar — Hackathon Participation**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/Jeppiyar%20Parti.pdf)
+* [**HackFest 2026 — Participation**](https://github.com/chandru31lab/Certificates/blob/main/Hackathons/hackfest-2%20Particiapation.pdf)
 
 ---
 
@@ -340,20 +346,20 @@ Developed a computer vision system for real-time vein visualization and labeling
 
 ### Joint Secretary — ECE Association, SRMIST
 
-- Led the Embedded Systems technical domain.
-- Mentored **30+ junior students** in embedded systems, electronics and programming.
-- Coordinated technical workshops and supported IEEE conferences.
-- Served as Student Coordinator for HackFest 2026 involving **40+ teams**.
+* Led the Embedded Systems technical domain.
+* Mentored **30+ junior students** in embedded systems, electronics and programming.
+* Coordinated technical workshops and supported IEEE conferences.
+* Served as Student Coordinator for HackFest 2026 involving **40+ teams**.
 
 ### Senior Developer — CIMES Research Lab
 
-- Mentored **13+ students** in Arduino, ESP32, electronics and programming.
-- Supported embedded systems development and multidisciplinary research projects.
+* Mentored **13+ students** in Arduino, ESP32, electronics and programming.
+* Supported embedded systems development and multidisciplinary research projects.
 
 ### Associate Lead — PLACFV's, SRM Career Center
 
-- Supported **20+ company placement processes**.
-- Coordinated between recruiters, students and placement teams.
+* Supported **20+ company placement processes**.
+* Coordinated between recruiters, students and placement teams.
 
 ---
 
@@ -361,13 +367,13 @@ Developed a computer vision system for real-time vein visualization and labeling
 
 ### Industry Electives
 
-- **Battery Management Systems for Electric Vehicles** — Volvo Industry Elective
-- **Power Converters for Electric Vehicles** — Volvo Industry Elective
+* **Battery Management Systems for Electric Vehicles** — Volvo Industry Elective
+* **Power Converters for Electric Vehicles** — Volvo Industry Elective
 
 ### Certifications
 
-- **QNX for Everyone** — BlackBerry QNX & Pi Square Technologies
-- **Mastering Microcontroller & Embedded Driver Development** — Udemy
+* **QNX for Everyone** — BlackBerry QNX & Pi Square Technologies
+* **Mastering Microcontroller & Embedded Driver Development** — Udemy
 
 ---
 
@@ -375,45 +381,56 @@ Developed a computer vision system for real-time vein visualization and labeling
 
 ### SIMCODESS Community Connect — Dindigul
 
-- Participated in a 4-day community development internship focused on organic farming, environmental conservation and women's empowerment.
-- Supported awareness activities under the WE LEAD project.
-- Participated in tree plantation and community documentation activities.
+* Participated in a 4-day community development internship focused on organic farming, environmental conservation and women's empowerment.
+* Supported awareness activities under the WE LEAD project.
+* Participated in tree plantation and community documentation activities.
 
-### Sanchar Mitra — Department of Telecommunications, Government of India
+### [Sanchar Mitra — Department of Telecommunications, Government of India](https://github.com/chandru31lab/Certificates/blob/main/Volunteering/Sancar%20mitra%20appointment.pdf)
 
-- Participated in cyber safety awareness activities covering phishing, cybercrime and digital fraud prevention.
-- Supported awareness of telecom safety and Sanchar Saathi services.
+* Participated in cyber safety awareness activities covering phishing, cybercrime and digital fraud prevention.
+* Supported awareness of telecom safety and Sanchar Saathi services.
 
 ### Unnat Bharat Abhiyan — Anjur Government School
 
-- Conducted awareness and motivational activities for school students.
-- Supported hands-on Python programming sessions.
-- Participated in science and technology demonstrations.
+* Conducted awareness and motivational activities for school students.
+* Supported hands-on Python programming sessions.
+* Participated in science and technology demonstrations.
 
 ### IEEE / SRMIST Technical Events
 
-- Volunteer — IPR Workshop with Hands-on Experience
-- Volunteer — RAEEUCCI 2026 International Conference
-- Student Coordinator — Faculty Stress Management & Personality Growth Workshop
-- Volunteer — HackFest 2026
+* [**Volunteer — IPR Workshop with Hands-on Experience**](https://github.com/chandru31lab/Certificates/blob/main/Volunteering/IPR%20Workshop%20vollenteer.pdf)
+* [**Volunteer — RAEEUCCI 2026 International Conference**](https://github.com/chandru31lab/Certificates/blob/main/Volunteering/RAUCCI%20Vollent.pdf)
+* [**Student Coordinator — Faculty Stress Management & Personality Growth Workshop**](https://github.com/chandru31lab/Certificates/blob/main/Volunteering/Stress%20workshop%20vollen.pdf)
+* [**Volunteer — HackFest 2026**](https://github.com/chandru31lab/Certificates/blob/main/Volunteering/hackfest%20vollent.pdf)
+
+---
+
+# 🧑‍🏫 Workshops & Technical Training
+
+* [**AI Workshop**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/AI%20Workshop.pdf)
+* [**CADD & CAE Training**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/CADD%20CAE%20training.pdf)
+* [**FPGA Workshop**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/FPGA%20Workshop.pdf)
+* [**PALS Workshop Participation**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/PALS%20Particiapation.pdf)
+* [**PMKVY Technical Training**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/PMKVY%20Certificate.pdf)
+* [**RAEEUCCI Presentation**](https://github.com/chandru31lab/Certificates/blob/main/Workshops/RAUCCI_Presentation.pdf)
 
 ---
 
 # 📚 Education
 
 ### SRM Institute of Science and Technology, Kattankulathur
+
 **B.Tech — Electronics and Communication Engineering**
 
-CGPA: **9.01 / 10**  
+CGPA: **9.01 / 10**
 Expected Graduation: **May 2027**
 
 ### Holy Cross Matriculation Higher Secondary School, Dindigul
 
-Class XII: **87%**  
+Class XII: **87%**
 Class X: **94%**
 
 ---
-
 
 # 🎯 What I'm Looking For
 
