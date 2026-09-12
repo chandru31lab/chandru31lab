@@ -248,7 +248,7 @@ Real-time vehicle speed monitoring system developed for traffic safety applicati
 - Won **1st Prize at Technow'24 Hackathon**.
 
 ---
-## [💡 Automatic Light Sensor using LM358 Comparator](#)
+## [💡 Automatic Light Sensor PCB using LM358 Comparator](https://github.com/chandru31lab/PCB-based-Automatic-Light-Control-LDR-Based-Relay-Switching-System)
 
 **LM358 • LDR • BC547 • Relay • EasyEDA**
 
