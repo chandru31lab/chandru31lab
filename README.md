@@ -381,7 +381,7 @@ Developed a computer vision system for real-time vein visualization and labeling
 * Participated in cyber safety awareness activities covering phishing, cybercrime and digital fraud prevention.
 * Supported awareness of telecom safety and Sanchar Saathi services.
 
-### [Unnat Bharat Abhiyan — Anjur Government School](#)
+### [Unnat Bharat Abhiyan — Anjur Government School](https://github.com/chandru31lab/Certificates/blob/main/Volunteering/Anjur_UBA.jpg)
 
 * Conducted awareness and motivational activities for school students.
 * Supported hands-on Python programming sessions.
